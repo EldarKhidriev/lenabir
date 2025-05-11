@@ -2292,9 +2292,10 @@ hr {
     margin-top: 8%;
   }
   .tm-home-box-1 {
+    margin-top: 50px;
     margin-bottom: 50px;
     width: 346px;
-    height: 436px;
+    height: 486px;
   }
   .tm-home-box-2 {
     margin: 0 auto 30px;
